@@ -3,7 +3,7 @@ name = "SigmaOS-omarchy-menu"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "omarchy-menu component"
+description = "SigmaOS SigmaOS-omarchy-menu component"
 upstream = []
 
 [contract]
