@@ -3,7 +3,7 @@ name = "SigmaOS-omarchy-menu"
 tier = 2
 stability = "beta"
 language = "rust"
-description = "SigmaOS SigmaOS-omarchy-menu component"
+description = "Menu/panel system manager"
 upstream = []
 
 [contract]
